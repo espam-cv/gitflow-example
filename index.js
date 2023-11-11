@@ -2,15 +2,15 @@ function sum(a, b) {
     return a + b;
 }
 
-function sub(a, b) {
+function substract(a, b) {
     return a - b;
 }
 
-function mult(a, b) {
+function multiplication(a, b) {
     return a * b;
 }
 
-function div(a, b) {
+function divide(a, b) {
     return a / b;
 }
 
